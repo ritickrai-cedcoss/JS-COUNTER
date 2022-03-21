@@ -1,0 +1,33 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+#wrapper{
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+.main{
+  justify-content: center;
+}
+
+input[type='submit']
+{
+  background-color: #f2f2f2;
+  font-size: 1.5rem;
+  width: 3%;
+  padding: 10px;
+  cursor: pointer;
+}
+
+input[type='number']
+{
+  font-size: 1.5rem;
+  width: 4%;
+  padding: 10px;
+  border-radius: 10%;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
